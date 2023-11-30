@@ -3,10 +3,10 @@
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="Jamshid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/RustamovUmidbek">
+<a href="https://twitter.com/JamshidKalandarov">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/umid-rustamov/">
+<a href="https://www.linkedin.com/in/jamshd-kalandarov/">
   <img align="left" alt="Umid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 
@@ -14,7 +14,7 @@
 
 <br />
 
-hi, i'm [Jamshid Kalandarov](https://magicsoft.uz/), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Jamshid Kalandarov](https://kalandaraov-jamshid-portfolio.vercel.app), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 

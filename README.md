@@ -41,8 +41,8 @@ hi, i'm [Jamshid Kalandarov](https://kalandarov.uz), a passionate self-taught fu
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
-NodeJs        3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
+TypeScript   10 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
+NestJs        3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
 ```
 
 <!--END_SECTION:waka-->
